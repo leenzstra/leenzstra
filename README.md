@@ -1,4 +1,6 @@
+![kurukuru-kururing](https://github.com/leenzstra/leenzstra/assets/65588137/20c773b8-03d6-4bf5-94fb-eea27f816c2d)
 ![1618860152_31-phonoteka_org-p-anime-s-fonom-nashego-mira-33](https://github.com/leenzstra/leenzstra/assets/65588137/0c9d942b-6dd2-4016-83f4-93c41afe46e1)
+![kurukuru-kururing](https://github.com/leenzstra/leenzstra/assets/65588137/20c773b8-03d6-4bf5-94fb-eea27f816c2d)
 
 <!--
 **leenzstra/leenzstra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
