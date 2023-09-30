@@ -1,4 +1,3 @@
-### a) a)) ахахахаххахахахахахаххаха)))
 ![1618860152_31-phonoteka_org-p-anime-s-fonom-nashego-mira-33](https://github.com/leenzstra/leenzstra/assets/65588137/0c9d942b-6dd2-4016-83f4-93c41afe46e1)
 
 <!--
