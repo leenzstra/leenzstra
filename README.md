@@ -1,3 +1,4 @@
+[![leenzstra GitHub stats](https://github-readme-stats.vercel.app/api?username=leenzstra)](https://github.com/anuraghazra/github-readme-stats)
 ![kurukuru-kururing](https://github.com/leenzstra/leenzstra/assets/65588137/20c773b8-03d6-4bf5-94fb-eea27f816c2d)
 
 <!--
