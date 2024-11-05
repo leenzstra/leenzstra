@@ -1,16 +1,16 @@
 <p align="center">
-  <img src="https://static.wikia.nocookie.net/baldi-fanon/images/8/8c/Flop.png/revision/latest/thumbnail/width/360/height/360?cb=20240113161247" height="200"/>
+  <img src="https://cdn.pfps.gg/banners/2388-white-trees.gif" height="200"/>
 </p>
 
 <p align="center">
   
-  <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Go-001.svg?style=for-the-badge&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-001.svg?style=for-the-badge&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-001.svg?style=for-the-badge&logo=Flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postgres-001.svg?style=for-the-badge&logo=Postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka"/>
-  <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/redis-001.svg?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/docker-001.svg?style=for-the-badge&logo=docker&logoColor=white"/>
   
   <a href="https://github.com/Ileriayo/markdown-badges"/>
 </p>
